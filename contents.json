@@ -1,0 +1,59 @@
+
+{"intro":{
+	
+	"text":"
+		You are standing in front of a mansion with your party members.
+		People say it is haunted and tell each other not to get close.
+		You are here in order to investigate the rumor.
+
+		As you and your party get in, your hear the door being locked behind you.
+		A voice echoes in the entrance hall.
+		"Generally speaking, once people are told that they cannot do something,
+		they start to crave it...
+		Interestingly enough, this happens 
+		even when they had no interest beforehand.
+		I am sorry to tell you, but now you cannot get out."
+
+		Each party member has a different expression on their face, 
+		but no one says anything.
+		The echoing voice continues.
+
+		""Well, from that door at least.
+		If you would like to get out, look for an exit elsewhere.
+		Have fun exploring my 'haunted mansion,' good people."
+
+		You look at the contractors of this job 
+		who you met only a few hours before.
+		They look back at you and each other.
+		There are three doors other than the entrance door."
+
+	"Options":{
+		"option1":{
+			"choice":""
+			}
+		}
+	}
+}
+
+
+
+{
+  "event":{
+  	"text":"Make a choice!",
+    "options":{
+  		"option1":{
+  		  "choice":"Yes",
+  		  
+  		    "text":"You chose Yes"
+  		  
+  		}
+  		,
+  		"option2":{
+  		  "choice":"No",
+  		  
+  		    "text":"You chose No"
+  		  
+  		}
+    }
+  }
+}
